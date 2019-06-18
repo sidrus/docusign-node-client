@@ -9,6 +9,6 @@
   "templateId": process.env.TEMPLATE_ID,
   "templateRole": "bob",
   "integratorKeyAuthCode": process.env.INTEGRATOR_KEY_AUTH_CODE,
-  "integratorKeyImplicit": "68c1711f-xxxx-xxxx-xxxx-b49b4211d831",
+  "integratorKeyImplicit": process.env.INTEGRATOR_KEY_IMPLICIT,
   "clientSecret": process.env.CLIENT_SECRET
 }
