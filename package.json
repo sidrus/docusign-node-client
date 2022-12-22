@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "csv-stringify": "^1.0.0",
-    "jsonwebtoken": "8.2.0",
+    "jsonwebtoken": "9.0.0",
     "passport-oauth2": "1.4.0",
     "safe-buffer": "^5.1.2",
     "superagent": "3.8.2"
